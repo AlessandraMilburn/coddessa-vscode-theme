@@ -1,0 +1,21 @@
+{
+    "name": "coddessa",
+    "displayName": "coddessa",
+    "description": "coddessa theme colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "coddessa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/coddessa-color-theme.json"
+            }
+        ]
+    }
+}
